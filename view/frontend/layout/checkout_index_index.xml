@@ -16,7 +16,7 @@
                                                         <item name="additional-payment-validators" xsi:type="array">
                                                             <item name="children" xsi:type="array">
                                                                 <item name="recaptchaValidation" xsi:type="array">
-                                                                    <item name="component" xsi:type="string">Rangerz_ReCaptchaCheckout/js/view/recaptcha</item>
+                                                                    <item name="component" xsi:type="string">Onglesdor_MonerisRecaptcha/js/view/recaptcha</item>
                                                                 </item>
                                                             </item>
                                                         </item>

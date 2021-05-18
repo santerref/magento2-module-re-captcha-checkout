@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Rangerz\ReCaptchaCheckout\Plugin;
+namespace Onglesdor\MonerisRecaptcha\Plugin;
 
-use Rangerz\ReCaptchaCheckout\Helper\Data as reCaptchaHelper;
+use Onglesdor\MonerisRecaptcha\Helper\Data as reCaptchaHelper;
 use Magento\Framework\Exception\CouldNotSaveException;
 
 class GuestPaymentInformation

@@ -1,4 +1,4 @@
-<h1 align="center">Rangerz_ReCaptchaCheckout</h1>
+<h1 align="center">Onglesdor_MonerisRecaptcha</h1>
 
 
 <div align="center">
@@ -36,7 +36,7 @@
 
 ```
 composer require rangerz/magento2-module-re-captcha-checkout
-bin/magento module:enable Rangerz_ReCaptchaCheckout
+bin/magento module:enable Onglesdor_MonerisRecaptcha
 bin/magento setup:upgrade
 ```
 

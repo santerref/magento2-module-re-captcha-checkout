@@ -1,6 +1,6 @@
 <?php
 
-namespace Rangerz\ReCaptchaCheckout\Helper;
+namespace Onglesdor\MonerisRecaptcha\Helper;
 
 use Magento\Framework\App\Helper\AbstractHelper;
 use Magento\Framework\App\Helper\Context;

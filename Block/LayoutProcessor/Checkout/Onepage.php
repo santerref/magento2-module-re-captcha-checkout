@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Rangerz\ReCaptchaCheckout\Block\LayoutProcessor\Checkout;
+namespace Onglesdor\MonerisRecaptcha\Block\LayoutProcessor\Checkout;
 
 use Magento\Checkout\Block\Checkout\LayoutProcessorInterface;
 use Magento\Framework\Exception\InputException;
